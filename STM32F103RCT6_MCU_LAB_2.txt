@@ -1,0 +1,220 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\STM32F103RCT6_MCU_LAB - VER2\STM32F103RCT6_MCU_LAB_2.PcbDoc
+Date         : 11/03/2024
+Time         : 12:33:22 CH
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 99.695mmx70.485mm
+    Components on board, 150
+count : 2
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 355
+    Connections routed, 355
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 410, 0, 1135, 0, 0, 632, 0
+    GND, 0, 0, 0, 14, 0, 0, 2, 0
+    PWR, 0, 0, 0, 18, 0, 0, 3, 0
+    Bottom Layer, 0, 0, 0, 673, 0, 0, 216, 0
+    Mechanical 1, 0, 0, 0, 20, 0, 0, 0, 72
+    Top Courtyard, 0, 0, 0, 126, 0, 0, 0, 0
+    Top Assembly, 0, 0, 0, 84, 0, 0, 0, 0
+    Mechanical 13, 11, 0, 0, 392, 0, 2, 2, 89
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 574, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Top 3D Body, 0, 0, 0, 0, 0, 0, 0, 21
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Designator, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Designator, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 155, 183, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 30, 0, 0, 472, 320, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 1, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 25
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 183
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 8,066, 5203,966, 74%
+    GND, 9,602, 6194,875, 88%
+    PWR, 9,475, 6112,611, 87%
+    Bottom Layer, 8,51, 5490,239, 78%
+count : 4
+
+Non-Plated Hole Size, Pads, Vias
+    0.95mm, 2, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mm, 410, 0
+    0.25mm, 0, 157
+    0.3048mm, 25, 0
+    0.5mm, 32, 0
+    0.508mm, 0, 26
+    0.75mm, 3, 0
+    0.8mm, 40, 0
+    0.889mm, 16, 0
+    1.1mm, 28, 0
+    1.65mm, 2, 0
+    3mm, 4, 0
+count : 11
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+    39.37mil / 125.984mil, 2
+    39.37mil / 141.732mil, 1
+count : 2
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0mm, 34
+    0.13mm, 157
+    0.2032mm, 25
+    0.292mm, 26
+    0.5mm, 71
+    0.5mm, 2
+    0.635mm, 16
+    2mm, 4
+    3mm, 2
+    3.4mm, 1
+count : 10
+
+Mid Layer Annular Ring Size, Count
+    0mm, 34
+    0.13mm, 157
+    0.2032mm, 25
+    0.292mm, 26
+    0.5mm, 71
+    0.5mm, 2
+    0.635mm, 16
+    2mm, 4
+    3mm, 2
+    3.4mm, 1
+count : 10
+
+Bottom Layer Annular Ring Size, Count
+    0mm, 34
+    0.13mm, 157
+    0.2032mm, 25
+    0.292mm, 26
+    0.5mm, 71
+    0.5mm, 2
+    0.635mm, 16
+    2mm, 4
+    3mm, 2
+    3.4mm, 1
+count : 10
+
+Pad Solder Mask, Count
+    0.1016mm, 565
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 565
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 565
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 565
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 565
+count : 1
+
+Pad Relief Entries, Count
+    4, 565
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 183
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 183
+count : 1
+
+Track Width, Count
+    0.05mm, 530
+    0.1mm, 590
+    0.127mm, 121
+    0.15mm, 42
+    0.1524mm, 28
+    0.2mm, 324
+    0.254mm, 1490
+    0.4mm, 53
+    0.45mm, 16
+    0.508mm, 90
+    0.6mm, 71
+    0.7mm, 5
+    0.8mm, 52
+    1mm, 24
+    1.016mm, 8
+    1.2mm, 64
+count : 16
+
+Arc Line Width, Count
+    0mm, 1
+    0.1mm, 2
+    0.127mm, 2
+    0.2mm, 14
+    0.25mm, 20
+    0.6mm, 2
+count : 6
+
+Arc Radius, Count
+    0.1mm, 14
+    0.125mm, 20
+    0.127mm, 1
+    0.3mm, 2
+    0.5mm, 4
+count : 5
+
+Arc Degrees, Count
+    180, 2
+    360, 39
+count : 2
+
+Text Height, Count
+    1mm, 1
+    1.2mm, 19
+    1.524mm, 301
+count : 3
+
+Text Width, Count
+    0.2mm, 19
+    0.254mm, 302
+count : 2
+
+Net Track Width, Count
+    0.254mm, 151
+count : 1
+
+Net Via Size, Count
+    0.38mm, 145
+    0.8mm, 6
+count : 2
